@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+openai
+playsound==1.2.2
+pygobject==3.42.0
+Flask
+# google-api-python-client # Google API
+# google-search-results # SerpAPI
+# youtube-transcript-api
+# chromadb
+# tiktoken
+# faiss-cpu
+# wikipedia
